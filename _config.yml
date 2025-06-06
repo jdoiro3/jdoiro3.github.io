@@ -5,7 +5,7 @@
 # Site
 title: Joe's Thoughts
 subtitle: ''
-description: 'These are collection of blog posts public diary entries.'
+description: 'A collection of my public journal entries, thoughts and posts.'
 keywords:
 author: Joseph Doiron
 language: en
@@ -102,4 +102,3 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
