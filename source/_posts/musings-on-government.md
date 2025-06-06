@@ -2,6 +2,8 @@
 title: Musings on Government
 date: 2025-06-05 21:29:15
 tags: [Politics, Short]
+markdown:
+  gfm: false
 ---
 
 > Democracy is a device that ensures we shall be governed no better than we deserve.
