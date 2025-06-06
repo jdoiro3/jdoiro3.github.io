@@ -103,6 +103,3 @@ theme: next
 deploy:
   type: ''
 
-duoshuo:
-  enable: true
-  shortname: your-duoshuo-shortname
