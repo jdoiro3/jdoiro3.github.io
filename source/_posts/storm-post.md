@@ -11,7 +11,7 @@ This past weekend we lost power for over 48 hours. An ordeal that started Saturd
 ![Power outage map](/images/power-outage-map.jpg)
 {% endgp %}
 
-Realizing we probably weren't cooking tonight, unless we wanted to cook with our camping stove, we decided to see if our neighborhood pub still had power, Tremont Tavern. It was a treacherous journey where we encountered another downed tree in the road but we eventually made it to Tremont and, to our amazement, they had power. Our refuge from the storm where we met another couple, on a date night, who were also from Louisiana, moving to Chattanooga a year ago. It's always nice meeting fellow Louisianians in Chattanooga.
+Realizing we probably weren't cooking tonight, unless we wanted to cook with our camping stove, we decided to see if our neighborhood pub, Tremont Tavern, still had power. It was a treacherous journey where we encountered another downed tree in the road but we eventually made it to Tremont and, to our amazement, they had power. Our refuge from the storm where we met another couple, on a date night, who were also from Louisiana, moving to Chattanooga a year ago. It's always nice meeting fellow Louisianians in Chattanooga.
 
 ![Ash at Tremont](/images/ash-at-tremont.jpg)
 
