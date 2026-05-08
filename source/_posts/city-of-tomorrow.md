@@ -1,5 +1,5 @@
 ---
-title: city-of-tomorow
+title: city-of-tomorrow
 date: 2026-05-08 10:07:01
 tags: Urban Planning
 thumbnail: /images/epcot-walt-disneys-new-urbanist-city.jpg
