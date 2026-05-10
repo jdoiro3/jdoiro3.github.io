@@ -44,7 +44,7 @@ One could also make the claim that most cities do in fact have some form of publ
 
 ![netherlands biker](/images/netherlands-bikers.jpg)
 
-Most American's love visiting european cities because it's the first time they've been somewhere where they don't need a car to get around. They go on walking tours of Rome, take the Tube in London to see Big Ben, and go biking around all of Amsterdam on a bike. To an American, this is all a novel experience that is just normal for europeans. These are all places with similar populations as American cities. They just have dense cities, with transit systems and mixed land use. Just look at a comparison between Atlanta and Barcelona.
+Most American's love visiting european cities because it's the first time they've been somewhere where they don't need a car to get around. They go on walking tours of Rome, take the Tube in London to see Big Ben, and go biking around all of Amsterdam. To an American, this is all a novel experience that is just normal for europeans. These are all places with similar populations as American cities. They just have dense cities, with transit systems and mixed land use. Just look at a comparison between Atlanta and Barcelona.
 
 <a href="https://www.researchgate.net/figure/Atlanta-and-Barcelona-built-up-area-represented-at-the-same-scale_fig4_222575994"><img src="https://www.researchgate.net/profile/Alain-Bertaud/publication/222575994/figure/fig4/AS:305126603542531@1449759259328/Atlanta-and-Barcelona-built-up-area-represented-at-the-same-scale.png" alt="Atlanta and Barcelona built-up area represented at the same scale."/></a>
 
