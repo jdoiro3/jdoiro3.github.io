@@ -5,7 +5,7 @@ tags: Urban Planning
 thumbnail: /images/epcot-walt-disneys-new-urbanist-city.jpg
 ---
 
-When I first visited Disney World with my family, I was amazed by the monorails. I’ve never seen anything like it. A highway in the sky that could take me pretty much anywhere in the parks. I didn’t need a car, I didn’t need a license, I didn’t need mom or dad to bring me, and I didn’t need to ride my bike on the shoulder of a highway, a perilous journey. All I had to do was walk to a nearby station and get on the monorail. For a boy from south Louisiana, it was my first experience with a well thought out public transit system, and I loved it. It was freedom.
+When I first visited Disney World with my family, I was amazed by the monorails. I’ve never seen anything like it. A highway in the sky that could take me pretty much anywhere in the parks. I didn’t need a car, I didn’t need a license, I didn’t need mom or dad to bring me, and I didn’t need to ride my bike on the shoulder of a highway. All I had to do was walk to a nearby station and get on the monorail. For a boy from south Louisiana, it was my first experience with a well thought out public transit system, and I loved it. It was freedom.
 
 ![monorail at Disney](/images/monorail.jpg)
 
