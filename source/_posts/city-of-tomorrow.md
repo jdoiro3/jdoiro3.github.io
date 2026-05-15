@@ -5,7 +5,7 @@ tags: Urban Planning
 thumbnail: /images/epcot-walt-disneys-new-urbanist-city.jpg
 ---
 
-When I first visited Disney World with my family, I was amazed by the monorails. I’ve never seen anything like it. A highway in the sky that could take me pretty much anywhere in the parks. I didn’t need a car, I didn’t need a license, I didn’t need mom or dad to bring me, and I didn’t need to ride my bike on the shoulder of a highway. All I had to do was walk to a nearby station and get on the monorail. For a boy from south Louisiana, it was my first experience with a well thought out public transit system, and I loved it. It was freedom.
+When I first visited Disney World with my family as a child, I was captivated by the monorails. I had never seen anything like it. A highway in the sky that could take me pretty much anywhere in the parks. I didn’t need a car, I didn’t need a license, I didn’t need mom or dad to bring me, and I didn’t need to ride my bike on the shoulder of a highway. All I had to do was walk to a nearby station and get on the monorail. For a boy from south Louisiana, it was my first experience with a well thought out public transit system, and I loved it. It was freedom.
 
 ![monorail at Disney](/images/monorail.jpg)
 
@@ -13,9 +13,9 @@ It made me think about my grandmother, who lived in New Orleans at the time, and
 
 ![walt's vision for EPCOT](/images/epcot-walt-disneys-new-urbanist-city.jpg)
 
-It was going to be the city of tomorrow. The strange thing was that hearing my grandmother's stories, and sitting on the monorail, in a futuristic city for today’s standards built in the 1970s, made me wonder what the hell happened. What happened to the city of tomorrow, I asked myself. Why can’t I go anywhere safely without a car?
+It was going to be the city of tomorrow. Remembering my grandmother's stories, while sitting on the monorail, in a futuristic city for today’s standards but built in the 1970s, made me wonder what the hell happened. What happened to the city of tomorrow, I asked myself. Why can’t I go anywhere safely without a car?
 
-American cities were originally built for pedestrians, given the fact personal cars weren't owned by everyone. This meant density was a critical part of designing and building cities. It naturally led to neighborhoods with corner stores, restaurants, bars, etc., owned by families who lived upstairs, and people went to those places because they were easily accessible. You’d cross paths on the street with your neighbor on the way to work and chat. City streets were designed to make it easy for pedestrians to get from point A to B easily, and many cities developed street car systems when walking or biking wasn’t practical.
+American cities were originally built for pedestrians, given the fact personal cars weren't owned by everyone. This meant density was a critical part of designing and building cities. It naturally led to neighborhoods with corner stores, restaurants, bars, and other mixed uses, owned by families who lived upstairs. People went to these places because they were easily accessible. People would cross paths on the street with your neighbor on the way to work and chat. City streets were designed to make it easy for pedestrians to get from point A to B easily and *spend their money along the way*. When walking wasn't practical, you could bike and many cities developed street car systems when walking or biking wasn’t practical.
 
 ![Los Angeles before cars](/images/los-angeles-before-cars.jpg)
 
