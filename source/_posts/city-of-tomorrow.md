@@ -32,7 +32,7 @@ I think most people underestimate how deeply our increasingly man made environme
 
 ![urban sprawl meme](/images/urban-sprawl-meme.webp)
 
-Most pedestrian routes are now dangerous, requiring people to walk on or near roads with fast moving cars. Everything in a modern American city revolves around the car, and cars are ingrained into our culture as much as guns are. It's a status symbol of one's wealth and something we're constantly told we need. Not just a car, but a car that fits your needs and lifestyle. It’s not that cars are evil. They’re amazing pieces of engineering that let us travel great distances easily, but I’d argue in most scenarios a 4x4 truck or an SUV the size of a tank, is not the optimal form of transport for most trips we Americans take.
+Most pedestrian routes are now dangerous, requiring people to walk on or near roads with fast moving cars. Everything in a modern American city revolves around the car, and cars are ingrained into our culture as much as guns are. It's a status symbol of one's wealth and something we're constantly told we need. Not just a car, but a car that fits your needs and lifestyle. It’s not that cars are evil. They’re amazing pieces of engineering that let us travel great distances easily, but I’d argue in most scenarios a 4x4 truck or an SUV the size of a tank is not the optimal form of transport for most trips we Americans take.
 
 ![SUV as big as a tank](/images/suvs-as-big-as-tanks.png)
 
