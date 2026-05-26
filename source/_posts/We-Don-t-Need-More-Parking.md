@@ -2,6 +2,7 @@
 title: We Don't Need More Parking
 date: 2026-05-23 23:05:25
 tags: Urban Planning
+thumbnail: /images/parking-lots-thibodaux.jpg
 ---
 
 > Rational people quickly become emotional about parking, and staunch conservatives turn into ardent communists.
