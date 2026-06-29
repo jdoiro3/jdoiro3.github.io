@@ -1,7 +1,7 @@
 ---
 title: We Don't Need More Parking
 date: 2026-05-23 23:05:25
-tags: Urban Planning
+tags: [Urban Planning, Parking]
 thumbnail: /images/parking-lots-thibodaux.jpg
 ---
 
