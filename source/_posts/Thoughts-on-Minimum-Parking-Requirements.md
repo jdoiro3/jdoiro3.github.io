@@ -9,7 +9,7 @@ After writing my {% post_link We-Don-t-Need-More-Parking "first blog post about 
 
 ![parking lot hell](/images/parking-lots.jpg)
 
-Imagine if Disney was designed like American cities are today. Every ride, attraction and building would have its own parking requirements mandated by the parks "zoning code." It would probably look like this:
+Imagine if Disney was designed like American cities are today. Every ride, attraction and building would have its own parking requirements mandated by the park's "zoning code." It would probably look like this:
 
 | Attraction / Use | Hypothetical Minimum Parking Requirement |
 |-------------------------------|----------------------------------------------|
@@ -29,7 +29,19 @@ Imagine if Disney was designed like American cities are today. Every ride, attra
 | Fireworks Viewing Area | 1 space per 4 spectators |
 | Restrooms | 1 space per 500 sq. ft. of building area |
 
-You might ask: how are the real minimum parking requirements generated? Well, the answer could be a whole separate blog post, but the gist is that they're either guesses, taken from other city's laws or from this [handbook](https://www.ite.org/technical-resources/topics/trip-and-parking-generation-v2/parking-generation-info1/), whose statistics are questionable in many places. Okay -- back to our hypothetical Disney park with minimum parking requirements. The table above means the park's rides and attractions would be pushed further away from each other, separated by their own parking lots as well as other lots for things between like gift shops and restaurants. The area wouldn't be very walkable. Guests would drive from each ride, irrespective of distance, since most of the infrastructure is devoted to mandated parking lots. After riding Space Mountain, you and your family would navigate a large parking lot, probably with no tree coverage or clear pedestrian paths, to get back in your car and drive to Pirates of the Caribbean, where you'd search for a parking spot, park, and then walk through yet another large asphalt parking lot. Then you'd queue for the ride. Imagine how different the Disney experience would be repeating this all day. Disney would become exhausting, inconvenient, and far less magical. Luckily, Disney has no such parking requirements and is designed for people once you're inside the park. Because you're walking, you naturally stop for things like ice cream, browse shops, watch a parade, stumble across a character, or discover an attraction you weren't planning to visit. Those unplanned moments are often what make the trip memorable. From a business perspective, it means there's more opportunities for guests to spend more money getting places. However, this hypothetical Disney park with lots of large parking lots is exactly the experience almost every American city gives to residents today, and one of the major driving forces for this urban-sprawl and over supply of off-street parking are these minimum parking requirements. It's a piece of law that is ripe for deregulation.
+You might ask: how are the real minimum parking requirements generated? Well, the answer could be a whole separate blog post, but the gist is that they're either guesses, taken from other city's laws or from this [handbook](https://www.ite.org/technical-resources/topics/trip-and-parking-generation-v2/parking-generation-info1/), whose statistics are questionable in many places. Here's my hometowns minimum parking requirements.
+
+<iframe
+    src="https://library.municode.com/la/thibodaux/codes/code_of_ordinances?nodeId=COOR_APXAZOOR_ARTVIIOREPALO_S704REOREVEPASP"
+    width="100%"
+    height="900"
+    style="border:1px solid #ddd; border-radius:8px;"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    title="Thibodaux Zoning Ordinance - Off-Street Parking Requirements">
+</iframe>
+
+Okay -- back to our hypothetical Disney park with minimum parking requirements. The table above means the park's rides and attractions would be pushed further away from each other, separated by their own parking lots as well as other lots for things between like gift shops and restaurants. The area wouldn't be very walkable. Guests would drive from each ride, irrespective of distance, since most of the infrastructure is devoted to mandated parking lots. After riding Space Mountain, you and your family would navigate a large parking lot, probably with no tree coverage or clear pedestrian paths, to get back in your car and drive to Pirates of the Caribbean, where you'd search for a parking spot, park, and then walk through yet another large asphalt parking lot. Then you'd queue for the ride. Imagine how different the Disney experience would be repeating this all day. Disney would become exhausting, inconvenient, and far less magical. Luckily, Disney has no such parking requirements and is designed for people once you're inside the park. Because you're walking, you naturally stop for things like ice cream, browse shops, watch a parade, stumble across a character, or discover an attraction you weren't planning to visit. Those unplanned moments are often what make the trip memorable. From a business perspective, it means there's more opportunities for guests to spend more money getting places. However, this hypothetical Disney park with lots of large parking lots is exactly the experience almost every American city gives to residents today, and one of the major driving forces for this urban-sprawl and over supply of off-street parking are these minimum parking requirements. It's a piece of law that is ripe for deregulation.
 
 Minimum parking requirements are one piece that makes our towns and cities only navigable by car. Like the cars in the Cars universe are real and that's who we built our cities for. Here's a good example I found recently in Dallas showcasing this point. This area of the city has been engineered for car dependency.
 
