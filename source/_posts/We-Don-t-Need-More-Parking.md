@@ -25,7 +25,7 @@ Being a non-profit doesn't exempt you from the minimum parking requirements. In 
 
 ![New Boat Center Plan](/images/Boat-Building-Exhibit-P-1-02.jpg)
 
-This illustrates the burdens minimum parking requirements put on local businesses and organizations. The boat center plays an important role preserving Louisiana's boatbuilding heritage, and I hope the city can find ways to ease this burden.
+This illustrates the burdens minimum parking requirements put on local businesses and organizations. The boat center plays an important role preserving Louisiana's boat-building heritage, and I hope the city can find ways to ease this burden.
 
 All of this is to say: *minimum parking laws are bad for business*. They not only increase costs for business but disproportionally affect local/small businesses relative to corporations, whom have ample capital to build as much parking as a local cities laws require. Removing these mandates promotes small businesses, encourage more efficient land use, support higher-density development, and make it easier to create walkable communities and invest in alternatives such as bike lanes and public transit.
 
