@@ -2,6 +2,7 @@
 title: Thoughts on Minimum Parking Requirements
 date: 2026-06-29 08:53:26
 tags: [Urban Planning, Parking]
+thumbnail: /images/empty-parking-lot.jpg
 ---
 
 After writing my {% post_link We-Don-t-Need-More-Parking "first blog post about parking" %}, I've done more research into the history of minimum parking requirements and the negative impacts they've had on our towns and cities over the past 100 years. In 1923, Columbus, Ohio was the first city in the United States to add minimum parking requirements to their zoning code, and by the 1950s almost every city started adding them. I suggest reading [From Chaos to Order: A Brief Cultural History of the Parking Lot](https://thereader.mitpress.mit.edu/brief-cultural-history-of-the-parking-lot/) for a history of parking and the driving forces for these laws. I honestly can't think of a single piece of zoning code and law that has done more damage to our towns and cities in America. Columbus, Ohio has now even walked back these laws, removing all minimum parking requirements in the Downtown District and along 140 miles of key transit and commercial corridors. Minimum parking requirements guarantee sprawl and cause a whole slew of negative impacts for our towns and cities. Go anywhere in America that isn't a crumbling historic downtown (car dependency can be contributing to it crumbling, too) and you'll find mostly empty parking lots everywhere.
