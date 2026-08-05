@@ -32,7 +32,7 @@ People seeing a car as an intruder was as foreign to me as a service system wher
     <a href="https://www.verylocal.com/know-your-nola-the-rise-fall-and-rebirth-of-streetcars-part-1/12233/"
        target="_blank"
        rel="noopener noreferrer"
-       style="color: inherit;">
+       style="color: CanvasText;">
       Know Your NOLA: The Rise, Fall, and Rebirth of Streetcars (Part 1)
     </a>
   </span>
@@ -56,7 +56,7 @@ I learned that until recently almost every city in America had these minimum off
 
 <div style="float: right; margin-left: 20px; max-width: 60%;">
   <img src="/images/L&N-2.jpg" alt="New Orleans city street car">
-  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: #fff;">
+  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: CanvasText;">
     I recently rode my bike to the best neighborhood grocery store in town, L&N.
   </span>
 </div>
@@ -73,7 +73,7 @@ At this point I wondered if I was convincing myself these minimum parking ratios
 
 <div style="float: right; margin-left: 20px; max-width: 60%;">
   <img src="/images/crossing-canal.jpg" alt="Crossing N Canal Blvd with my baby">
-  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: #fff;">
+  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: CanvasText;">
     The only "safe" way to cross N Canal Blvd. There's no crosswalk but a sidewalk on one side.
   </span>
 </div>
