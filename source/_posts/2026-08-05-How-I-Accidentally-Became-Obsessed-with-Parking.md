@@ -61,7 +61,11 @@ I learned that until recently almost every city in America had these minimum off
 
 *Tom’s Bike Shop & Lawn Mowers* has been around forever. Tom's is located on N 7th Street in a historically walkable Thibodaux neighborhood. Going west from Tom's is the iconic (at least to me) L&N grocery store, and a bit further is *The Place*, Thibodaux’s only neighborhood bar that seems to have good food, too. Right next to Tom's shop going east on N 7th Street is the old *Ice House*.
 
-The *Ice House* [used to be the Olde Icehouse, an iconic Thibodaux bar where local residents could crack a cold one with friends after a hard days work](https://houmatimes.com/spotlight/businessman-breathes-new-life-into-olde-icehouse/). It's currently vacant and listed for [sale](https://lacdb.com/listings/1ce4e0bb-700-st-patrick-st/). LACDB's listing says "the property offers ample on-site parking, with areas along the front, side, and rear of the building. A newly drafted proposed parking plan also outlines opportunities to expand parking capacity if desired, providing flexibility for future commercial growth."
+The *Ice House* used to be the [Olde Icehouse](https://houmatimes.com/spotlight/businessman-breathes-new-life-into-olde-icehouse/), an iconic Thibodaux bar where local residents could crack a cold one with friends after a hard days work. It's currently vacant and listed for [sale](https://lacdb.com/listings/1ce4e0bb-700-st-patrick-st/). It closed in 2017.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D997352680308493%26set%3Da.765285978026670%26type%3D3&show_text=true&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+LACDB's listing says "the property offers ample on-site parking, with areas along the front, side, and rear of the building. A newly drafted proposed parking plan also outlines opportunities to expand parking capacity if desired, providing flexibility for future commercial growth."
 
 ![ice house listing parking plan](/images/ice-house-parking-plan.png)
 
