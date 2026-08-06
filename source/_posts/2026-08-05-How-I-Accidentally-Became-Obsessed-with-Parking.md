@@ -59,7 +59,7 @@ I learned that until recently almost every city in America had these minimum off
   </span>
 </div>
 
-*Tom’s Bike Shop & Lawn Mowers* has been around forever. Tom's is located on N 7th Street in a historically walkable Thibodaux neighborhood. Going west from Tom's is the iconic (at least to me) L&N grocery store, and a bit further is *The Place*, Thibodaux’s only neighborhood bar that seems to have good food, too. Right next to Tom's shop going east on N 7th Street is the old *Ice House*.
+*Tom’s Bike Shop & Lawn Mowers* has been around forever. Tom's is located on N 7th Street in a historically walkable Thibodaux neighborhood. Going west from Tom's is the iconic (at least to me) L&N grocery store, and a bit further is *The Place*, one of Thibodaux’s few neighborhood bars that seems to have good food, too. Right next to Tom's shop going east on N 7th Street is the old *Ice House*.
 
 The *Ice House* used to be the [Olde Icehouse](https://houmatimes.com/spotlight/businessman-breathes-new-life-into-olde-icehouse/), an iconic Thibodaux bar where local residents could crack a cold one with friends after a hard days work. It's currently vacant and listed for [sale](https://lacdb.com/listings/1ce4e0bb-700-st-patrick-st/). It closed in 2017.
 
