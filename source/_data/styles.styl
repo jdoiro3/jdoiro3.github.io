@@ -1,0 +1,52 @@
+// Custom Modern Blockquote Box with Icon & Dark Mode Support
+blockquote {
+  position: relative; // Required for absolute positioning of the icon
+  padding: 20px 20px 20px 50px; // Extra left padding to clear space for the icon
+  margin: 20px 0;
+
+  background-color: var(--content-bg-color);
+  color: var(--text-color);
+
+  border-left: 4px solid var(--theme-color);
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08),
+              0 1px 3px rgba(0, 0, 0, 0.05),
+              inset 0 0 0 1px rgba(0, 0, 0, 0.06);
+
+  // Font Awesome Quote Icon Injection
+  &::before {
+    content: "\f10d"; // Font Awesome Unicode for "quote-left"
+    font-family: "Font Awesome 6 Free", "Font Awesome 5 Free", FontAwesome; // Compatibility across NexT versions
+    font-weight: 900; // Required for solid Font Awesome icons
+    position: absolute;
+    left: 15px;
+    top: 18px;
+    font-size: 22px;
+    color: rgba(66, 185, 131, 0.3); // Semi-transparent matching Vue-green accent
+    line-height: 1;
+  }
+
+  p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.6;
+    color: inherit;
+  }
+}
+
+// Explicit Dark Mode Override
+body.darkmode--activated blockquote {
+  background-color: #2d3139;
+  color: #dfe2e5;
+
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4),
+              0 2px 4px rgba(0, 0, 0, 0.2),
+              inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+
+  // Brighten icon opacity slightly for better dark mode visibility
+  &::before {
+    color: rgba(66, 185, 131, 0.45);
+  }
+}

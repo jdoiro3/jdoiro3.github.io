@@ -29,7 +29,7 @@ custom_file_path:
   #bodyEnd: source/_data/body-end.njk
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
-  #style: source/_data/styles.styl
+  style: source/_data/styles.styl
 
 
 # ---------------------------------------------------------------
@@ -43,7 +43,23 @@ scheme: Muse
 #scheme: Gemini
 
 # Dark Mode
-darkmode: true
+darkmode: false
+
+# Darkmode JS Configuration
+darkmode_js:
+  enable: true
+  bottom: '64px'          # Floating distance from the bottom of the page
+  right: '32px'           # Floating distance from the right (adjust to not overlap "Back to Top" button)
+  left: 'unset'
+  time: '0.5s'            # Transition animation duration
+  mixColor: 'transparent' # Seamless transition blending color
+  backgroundColor: 'transparent'
+  buttonColorDark: '#100f2c'  # Widget button color during dark mode
+  buttonColorLight: '#fff'    # Widget button color during light mode
+  isActivated: false      # True if you want dark mode active by default
+  saveInCookies: true     # Remembers user selection across page reloads
+  autoMatchOsTheme: true  # Initializes based on user's OS preference, but allows overriding via toggle
+
 
 
 # ---------------------------------------------------------------
@@ -581,7 +597,7 @@ math:
 
 # Easily enable fast Ajax navigation on your website.
 # For more information: https://github.com/next-theme/pjax
-pjax: false
+pjax: true
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox/
