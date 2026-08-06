@@ -27,7 +27,7 @@ People seeing a car as an intruder was as foreign to me as a service system wher
 
 <div style="float: right; margin-left: 20px; max-width: 60%;">
   <img src="/images/nola-street-car.jpg" alt="New Orleans city street car">
-  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: #fff;">
+  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: CanvasText;">
     New Orleans street cars from
     <a href="https://www.verylocal.com/know-your-nola-the-rise-fall-and-rebirth-of-streetcars-part-1/12233/"
        target="_blank"
