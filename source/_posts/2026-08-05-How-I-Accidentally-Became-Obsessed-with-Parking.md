@@ -65,7 +65,7 @@ I learned that until recently almost every city in America had these minimum off
 
 The *Ice House* [used to be the Olde Icehouse, an iconic Thibodaux bar where local residents could crack a cold one with friends after a hard days work](https://houmatimes.com/spotlight/businessman-breathes-new-life-into-olde-icehouse/). It's currently vacant and listed for [sale](https://lacdb.com/listings/1ce4e0bb-700-st-patrick-st/). LACDB's listing says "the property offers ample on-site parking, with areas along the front, side, and rear of the building. A newly drafted proposed parking plan also outlines opportunities to expand parking capacity if desired, providing flexibility for future commercial growth."
 
-![ice house parking plan](/images/ice-house-parking-plan.png)
+![ice house listing parking plan](/images/ice-house-parking-plan.png)
 
 The plan -- assuming the purchaser of the property would be willing to build more parking -- is to build 49 spaces. That might seem like plenty to you, but for the *Ice House* to become a bar again, it wouldn't be enough. The minimum parking ratios say it would need 1 parking space per 100 square feet of gross floor area. It would need 92 spaces (9,112 ÷ 100 = 91.12).
 
