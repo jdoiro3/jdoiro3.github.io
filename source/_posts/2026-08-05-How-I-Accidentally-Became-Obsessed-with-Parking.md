@@ -38,7 +38,11 @@ People seeing a car as an intruder was foreign to me. It was hard to imagine, bu
   </span>
 </div>
 
-Over time, automobile interests successfully shifted public opinion. They popularized terms like "jaywalker," portraying pedestrians – not motorists – as the ones misusing the street. The kids in the street were now the ones in the way of the automobile. The cost of owning an automobile also dropped drastically. Cities now faced a new problem: where to store these automobiles. Public streets were becoming overcrowded, and curb parking was free, first come first service, and had no time limits. Naturally, employees usually occupied prime spots, leaving none for paying customers. If that sounds familiar, it's basically how curb parking in downtown Thibodaux still works today (there are also proven ways for the city to better manage this limited resource and they don't include building more parking). The history of parking regulation is surprisingly rich. Eran Ben-Joseph's [From Chaos to Order: A Brief Cultural History of the Parking Lot](https://thereader.mitpress.mit.edu/brief-cultural-history-of-the-parking-lot/) provided me with an excellent overview. The biggest surprise wasn't that cities wanted more parking. It was who they expected to pay for it. Instead of building and paying for enough parking themselves, cities increasingly required private property owners to provide parking on their own land. The result was a new development pattern that feels completely ordinary today where nearly every home, business, church, school, and restaurant is surrounded by its own dedicated parking lot.
+Over time, automobile interests successfully shifted public opinion. They popularized terms like "jaywalker," portraying pedestrians – not motorists – as the ones misusing the street. The kids in the street were now the ones in the way of the automobile. The cost of owning an automobile also dropped drastically. Cities now faced a new problem: where to store these automobiles.
+
+Public streets were becoming overcrowded, and curb parking was free, first come first service, and had no time limits. Naturally, employees usually occupied prime spots, leaving none for paying customers. If that sounds familiar, it's basically how curb parking in downtown Thibodaux still works today (there are also proven ways for the city to better manage this limited resource and they don't include building more parking). The history of parking regulation is surprisingly rich. Eran Ben-Joseph's [From Chaos to Order: A Brief Cultural History of the Parking Lot](https://thereader.mitpress.mit.edu/brief-cultural-history-of-the-parking-lot/) provided me with an excellent overview. The biggest surprise wasn't that cities wanted more parking. It was who they expected to pay for it.
+
+Instead of building and paying for enough parking themselves, cities increasingly required private property owners to provide parking on their own land. The result was a new development pattern that feels completely ordinary today where nearly every home, business, church, school, and restaurant is surrounded by its own dedicated parking lot.
 
 One of my questions was now answered, but it raised another. How exactly does the law in places like Thibodaux mandate all these large parking lots? The answer lies in off-street parking minimums.
 
@@ -90,53 +94,11 @@ At this point I wondered if I was convincing myself these minimum parking ratios
 
 Once I finished reading my last research paper on minimum parking ratios, I knew I had completed my transformation from a man who occasionally wondered about parking lots to a man completely obsessed with parking. I had to do something about it or at least try. All the months of research and learning culminated in my proposed amendment to Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance to reform the City's minimum off-street motor-vehicle parking requirements and provide greater flexibility in how parking demand is accommodated. I’ve contacted the Planning and Zoning Commission with my proposal and if I give them the $30 fee, I’ll get a chance to appear before the committee with my case and amendment. Will I be successful? Probably not the first go around, but I truly believe in making Thibodaux a better place and removing parking minimums will do just that. Cities aren’t accidents. They are shaped and molded by policy and laws. They might just seem like arbitrary legal documents, but making sure they promote the city I believe most people wish to live in matters. Below is my full amendment to remove Thibodaux's minimum parking requirements citywide.
 
-## Amendment to Article 7
-
-### Summary
-
-I’m requesting that the Planning and Zoning Commission consider an amendment to Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance to reform the City's minimum off-street motor-vehicle parking requirements and provide greater flexibility in how parking demand is accommodated. The proposed policy change is to eliminate mandatory minimum off-street motor-vehicle parking ratios citywide while retaining appropriate regulations governing parking safety, accessibility, design, drainage, and other legitimate public impacts. This amendment aligns with the 2024 SCPDC Bicycle and Pedestrian Plan that recommends removing parking minimums. In addition to removing these minimum parking ratios, the proposal would facilitate and encourage shared-parking agreements, allowing for more efficient use of existing and underutilized off-street parking facilities, such as The Foundry on the Bayou’s underutilized parking lot as an example.
-
-### Goals
-
-The broad goal of this reform is to reduce regulatory incentives for automobile-oriented, low-density development; support more compact and walkable development; improve conditions for walking and bicycling; and reduce unnecessary costs and land requirements that can disproportionately burden small businesses. The current purpose for Article 7, Section 701 for the City of Thibodaux Comprehensive Zoning Ordinance states:
-
-> The off-street vehicle parking, bicycle parking and loading regulations of this Ordinance are intended to provide accessible,
-> attractive, secure and well-maintained off-street parking and loading areas, provide the appropriate number of spaces in proportion to
-> the demands of the proposed use, increase public safety by reducing congestions of public streets, and encourage the use of alternative
-> modes of transportation.
-
-The current stated goal is to not necessarily require more parking but instead provide the appropriate number of off-street parking spaces based on actual demand. The current fixed city-wide off-street parking ratios are based on square footage alone, and research has shown this is a poor predictor for parking demand. For example, one analysis of restaurant parking data found that floor area explained only approximately 4% of the variation in observed parking demand. Therefore, they conflict with the stated goals above. If the purpose of the ordinance is to provide the appropriate number of spaces in proportion to the demands of the proposed use, then the City's regulations should allow parking supply to respond to actual demand rather than requiring the same minimum ratio for similar uses regardless of location. Businesses and property owners are generally better positioned than a citywide zoning ratio to determine how much off-street parking a particular use requires, and the city is best positioned to manage public curb space and address parking-related impacts on public streets, sidewalks, and other public infrastructure. The city should not require every private development to provide enough off-street parking to eliminate all possible demand for public curb parking. Further, another purpose for Section 701 is to “encourage the use of alternative modes of transportation.” As previously stated, these fixed ratios can require more parking than is needed for a particular use or location, while failing to account for differences in actual demand. In practice, it often causes an oversupply of off-street asphalt parking, creating urban environments that actively discourage alternative modes of transportation such as walking or biking. The current code contradicts the stated purpose. Therefore, I’m proposing this amendment so the stated code can more appropriately reflect the current purpose and broad goals above.
-
-### Proposed Amendment
-
-Based on the goals above, the proposed amendment would revise Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance. *The amendment would remove minimum off-street motor-vehicle parking ratios but would not eliminate regulations governing the design, safety, accessibility, drainage, circulation, or maintenance of parking facilities*. Specifically it would:
-
-1. Section 704(A)
-
-    - Delete Table 7.1 and the provisions requiring a specific number of parking spaces based on land use. The city should allow parking supply to respond to the demands of individual uses and the characteristics of the surrounding area.
-    - Retain design and safety regulations. For example, this amendment isn’t proposing to remove regulations for space dimensions, accessibility parking, driveway access, drainage, etc.
-    - Remove language allowing the Zoning Administrator to determine parking requirements for unlisted uses. Update the language for the section to contain language such as:
-
-        > *Off-street vehicle parking may be provided at the discretion of the property owner or developer.
-        > Where parking is provided, it shall comply with the applicable design, accessibility, drainage, landscaping,
-        > circulation, and safety requirements of this Article.*
-
-2. Section 704(D)
-
-    Since parking minimums will be removed, the 125% of the minimum will need to be updated.
-
-3. Section 704(E)
-
-    This section currently exists to allow businesses to satisfy the minimum parking ratios. Since the goal of this proposed amendment is to encourage property owners to voluntarily share parking facilities where doing so improves land efficiency, reduces unnecessary pavement, and minimizes storm-water runoff, the proposed amendment to this section would be:
-
-    - Remove the 300-foot limit for parking agreements, replacing it with something such as:
-
-        > Shared parking facilities should be connected to participating uses by a safe, continuous pedestrian route.
-        > The Zoning Administrator may consider the quality and safety of the pedestrian connection when evaluating whether
-        > a shared parking arrangement serves the intended use.
-
-    - Allow for off-street parking facilities to be shared among two or more uses through a voluntary written agreement between the participating property owners.
-
-    - Update the language to encourage shared parking agreements where it reduces unnecessary impervious surface, promotes more efficient use of existing parking resources, and supports compact, walkable development.
-
-    - Update the language to make sure where shared parking is provided, the parking area is connected to each participating use by a safe and reasonably direct pedestrian route.
+<div style="width: 100%; margin: 2em 0;">
+  <iframe
+    src="/documents/Amendment to Article 7.pdf"
+    width="100%"
+    height="800px"
+    style="border: 1px solid #ccc; border-radius: 4px;">
+  </iframe>
+</div>
