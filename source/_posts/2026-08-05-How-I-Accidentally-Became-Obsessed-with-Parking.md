@@ -63,17 +63,7 @@ I learned that until recently almost every city in America had these minimum off
   </span>
 </div>
 
-*Tom’s Bike Shop & Lawn Mowers* has been around forever. Tom's is located on N 7th Street in a historically walkable Thibodaux neighborhood. Going west from Tom's is the iconic (at least to me) L&N grocery store, and a bit further is *The Place*, one of Thibodaux’s few neighborhood bars that seems to have good food, too. Right next to Tom's shop going east on N 7th Street is the old *Ice House*.
-
-The *Ice House* used to be the [Olde Icehouse](https://houmatimes.com/spotlight/businessman-breathes-new-life-into-olde-icehouse/), an iconic Thibodaux bar where local residents could crack a cold one with friends after a hard days work. It's currently vacant and listed for [sale](https://lacdb.com/listings/1ce4e0bb-700-st-patrick-st/). It closed in 2017.
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D997352680308493%26set%3Da.765285978026670%26type%3D3&show_text=true&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-LACDB's listing says "the property offers ample on-site parking, with areas along the front, side, and rear of the building. A newly drafted proposed parking plan also outlines opportunities to expand parking capacity if desired, providing flexibility for future commercial growth."
-
-![ice house listing parking plan](/images/ice-house-parking-plan.png)
-
-The plan -- assuming the purchaser of the property would be willing to build more parking -- is to build 49 spaces. That might seem like plenty to you, but for the *Ice House* to become a bar again, it wouldn't be enough. The minimum parking ratios say it would need 1 parking space per 100 square feet of gross floor area. It would need 92 spaces (9,112 ÷ 100 = 91.12).
+*Tom’s Bike Shop & Lawn Mowers* has been around forever. Tom's is located on N 7th Street in a historically walkable Thibodaux neighborhood. Going west from Tom's is the iconic (at least to me) L&N grocery store, and a bit further is *The Place*, one of Thibodaux’s few neighborhood bars that seems to have good food, too. Right next to Tom's shop going east on N 7th Street is the old *Ice House* (we'll come back to this historic building later).
 
 This area in Thibodaux is rich with historic buildings and local businesses, integrated right within the fabric of the neighborhood. I’d argue the businesses help create a strong sense of community. They do more good than harm. I remember helping my friend bring his family's lawn mower to Tom’s to get fixed. We walked from their house down to Tom's to see if the repairs were done.
 
@@ -92,7 +82,19 @@ At this point I wondered if I was convincing myself these minimum parking ratios
   </span>
 </div>
 
-Once I finished reading my last research paper on minimum parking ratios, I knew I had completed my transformation from a man who occasionally wondered about parking lots to a man completely obsessed with parking. I had to do something about it or at least try. All the months of research and learning culminated in my proposed amendment to Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance to reform the City's minimum off-street motor-vehicle parking requirements and provide greater flexibility in how parking demand is accommodated. I’ve contacted the Planning and Zoning Commission with my proposal and if I give them the $30 fee, I’ll get a chance to appear before the committee with my case and amendment. Will I be successful? Probably not the first go around, but I truly believe in making Thibodaux a better place and removing parking minimums will do just that. Cities aren’t accidents. They are shaped and molded by policy and laws. They might just seem like arbitrary legal documents, but making sure they promote the city I believe most people wish to live in matters. Below is my full amendment to remove Thibodaux's minimum parking requirements citywide.
+Once I finished reading my last research paper on minimum parking ratios, I knew I had completed my transformation from a man who occasionally wondered about parking lots to a man completely obsessed with parking. I had to do something about it or at least try. All the months of research and learning culminated in my proposed amendment to Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance to reform the City's minimum off-street motor-vehicle parking requirements and provide greater flexibility in how parking demand is accommodated.
+
+Here's what all of this looks like when you apply the city's parking ordinance to an actual building: the *Ice House*. The building was formally the [Olde Icehouse](https://houmatimes.com/spotlight/businessman-breathes-new-life-into-olde-icehouse/), an iconic Thibodaux bar where local residents could crack a cold one with friends after a hard days work. It closed in 2017 and is currently vacant [listed for sale](https://lacdb.com/listings/1ce4e0bb-700-st-patrick-st/).
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D997352680308493%26set%3Da.765285978026670%26type%3D3&show_text=true&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+LACDB's listing says "the property offers ample on-site parking, with areas along the front, side, and rear of the building. A newly drafted proposed parking plan also outlines opportunities to expand parking capacity if desired, providing flexibility for future commercial growth."
+
+![ice house listing parking plan](/images/ice-house-parking-plan.png)
+
+The plan -- assuming the purchaser of the property would be willing to build more parking -- is to build 49 spaces. That might seem like plenty to you, but for the *Ice House* to become a bar again, it wouldn't be enough. The minimum parking ratios say it would need 1 parking space per 100 square feet of gross floor area. It would need **91 spaces** (9,112 ÷ 100 = 91.12). Maybe the Ice House really needs all 91 spaces. Maybe it doesn't. The fact is the city shouldn't need to determine the appropriate number of parking spaces for every possible use in the first place. Businesses and property owners are generally better positioned than a citywide zoning ratio to determine how much off-street parking a particular use requires
+
+I’ve contacted the Planning and Zoning Commission with my proposal and if I give them the $30 fee, I’ll get a chance to appear before the committee with my case and amendment. Will I be successful? Probably not the first go around, but I truly believe in making Thibodaux a better place and removing parking minimums will do just that. Cities aren’t accidents. They are shaped and molded by policy and laws. They might just seem like arbitrary legal documents, but making sure they promote the city I believe most people wish to live in matters. Below is my full amendment to remove Thibodaux's minimum parking requirements citywide.
 
 <div style="width: 100%; margin: 2em 0;">
   <iframe
