@@ -81,7 +81,7 @@ Here's what all of this looks like when you apply the city's parking ordinance t
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D997352680308493%26set%3Da.765285978026670%26type%3D3&show_text=true&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-LACDB's listing says "the property offers ample on-site parking, with areas along the front, side, and rear of the building. A newly drafted proposed parking plan also outlines opportunities to expand parking capacity if desired, providing flexibility for future commercial growth."
+LACDB's listing for the *Ice House* says "the property offers ample on-site parking, with areas along the front, side, and rear of the building. A newly drafted proposed parking plan also outlines opportunities to expand parking capacity if desired, providing flexibility for future commercial growth."
 
 ![ice house listing parking plan](/images/ice-house-parking-plan.png)
 
