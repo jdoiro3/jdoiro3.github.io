@@ -75,15 +75,6 @@ If you haven’t noticed, many of Thibodaux’s local businesses are located wit
 
 At this point I wondered if I was convincing myself these minimum parking ratios were bad. Maybe they existed for good reason? I put it off for a while but I knew what I had to make myself do next: read academic literature. Not surprisingly what I found was numerous academic, economic, and urban planning studies that confirmed what I suspected. Numerous studies have shown that these mandates are typically based on limited or outdated data rather than actual demand, causing cities to require substantially more parking than many businesses and developments need. They result in higher construction costs, higher housing and commercial rents, more impervious surfaces that contribute to flooding, reduced walkability, and increased car dependency. Rather than preventing parking shortages, many of the researchers argued that cities should allow the market to determine parking supply while managing on-street parking through pricing or time limits where necessary. The free market for parking is a more efficient one than the one where the government mandates a surplus. It does more harm than good. I also learned about a new trend. Many cities, big and small, across the country were beginning to remove minimum parking ratios from zoning ordinances. North Carolina actually banned them at the state level not that long ago.
 
-<div style="float: right; margin-left: 20px; max-width: 60%;">
-  <img src="/images/crossing-canal.jpg" alt="Crossing N Canal Blvd with my baby">
-  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: CanvasText;">
-    The only "safe" way to cross N Canal Blvd. There's no crosswalk but a sidewalk on one side.
-  </span>
-</div>
-
-Once I finished reading my last research paper on minimum parking ratios, I knew I had completed my transformation from a man who occasionally wondered about parking lots to a man completely obsessed with parking. I had to do something about it or at least try. All the months of research and learning culminated in my proposed amendment to Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance to reform the City's minimum off-street motor-vehicle parking requirements and provide greater flexibility in how parking demand is accommodated.
-
 Here's what all of this looks like when you apply the city's parking ordinance to an actual building: the *Ice House*. The building was formally the [Olde Icehouse](https://houmatimes.com/spotlight/businessman-breathes-new-life-into-olde-icehouse/), an iconic Thibodaux bar where local residents could crack a cold one with friends after a hard days work. It closed in 2017 and is currently vacant [listed for sale](https://lacdb.com/listings/1ce4e0bb-700-st-patrick-st/).
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D997352680308493%26set%3Da.765285978026670%26type%3D3&show_text=true&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -92,7 +83,16 @@ LACDB's listing says "the property offers ample on-site parking, with areas alon
 
 ![ice house listing parking plan](/images/ice-house-parking-plan.png)
 
-The plan -- assuming the purchaser of the property would be willing to build more parking -- is to build 49 spaces. That might seem like plenty to you, but for the *Ice House* to become a bar again, it wouldn't be enough. The minimum parking ratios say it would need 1 parking space per 100 square feet of gross floor area. It would need **91 spaces** (9,112 ÷ 100 = 91.12). Maybe the Ice House really needs all 91 spaces. Maybe it doesn't. The fact is the city shouldn't need to determine the appropriate number of parking spaces for every possible use in the first place. Businesses and property owners are generally better positioned than a citywide zoning ratio to determine how much off-street parking a particular use requires
+The plan -- assuming the purchaser of the property would be willing to build more parking -- is to build 49 spaces. That might seem like plenty to you, but for the *Ice House* to become a bar again, it wouldn't be enough. The minimum parking ratios say it would need 1 parking space per 100 square feet of gross floor area. It would need **91 spaces** (9,112 ÷ 100 = 91.12). Maybe the Ice House really needs all 91 spaces. Maybe it doesn't. The fact is the city shouldn't need to determine the appropriate number of parking spaces for every possible use in the first place. Businesses and property owners are generally better positioned than a citywide zoning ratio to determine how much off-street parking a particular use requires.
+
+<div style="float: right; margin-left: 20px; max-width: 60%;">
+  <img src="/images/crossing-canal.jpg" alt="Crossing N Canal Blvd with my baby">
+  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: CanvasText;">
+    The only "safe" way to cross N Canal Blvd. There's no crosswalk but a sidewalk on one side.
+  </span>
+</div>
+
+Once I finished reading my last research paper on minimum parking ratios, I knew I had completed my transformation from a man who occasionally wondered about parking lots to a man completely obsessed with parking. I had to do something about it or at least try. All the months of research and learning culminated in my proposed amendment to Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance to reform the City's minimum off-street motor-vehicle parking requirements and provide greater flexibility in how parking demand is accommodated.
 
 I’ve contacted the Planning and Zoning Commission with my proposal and if I give them the $30 fee, I’ll get a chance to appear before the committee with my case and amendment. Will I be successful? Probably not the first go around, but I truly believe in making Thibodaux a better place and removing parking minimums will do just that. Cities aren’t accidents. They are shaped and molded by policy and laws. They might just seem like arbitrary legal documents, but making sure they promote the city I believe most people wish to live in matters. Below is my full amendment to remove Thibodaux's minimum parking requirements citywide.
 
