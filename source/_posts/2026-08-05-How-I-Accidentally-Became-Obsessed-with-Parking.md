@@ -96,7 +96,7 @@ The way I see it, the government's role is to manage the impacts on public space
   </span>
 </div>
 
-Once I finished reading my last research paper on minimum parking ratios, I knew I had completed my transformation from a man who occasionally wondered about parking lots to a man completely obsessed with parking. I had to do something about it or at least try. All the months of research and learning culminated in my proposed amendment to Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance to reform the City's minimum off-street motor-vehicle parking requirements and provide greater flexibility in how parking demand is accommodated.
+Once I finished reading my last research paper on minimum parking ratios, I knew I had completed my transformation from a man who occasionally wondered about parking lots to a man completely obsessed with parking. I had to do something about it or at least try. All the months of research and learning culminated in my proposed amendment to Article 7 of the City of Thibodaux Comprehensive Zoning Ordinance to reform the City's minimum off-street parking requirements.
 
 I’ve contacted the Planning and Zoning Commission with my proposal and if I give them the $30 fee, I’ll get a chance to appear before the committee with my case and amendment. Will I be successful? Probably not the first go around, but I truly believe in making Thibodaux a better place and removing parking minimums will do just that. Cities aren’t accidents. They are shaped and molded by policy and laws. They might just seem like arbitrary legal documents, but making sure they promote the city I believe most people wish to live in matters. Below is my full amendment to remove Thibodaux's minimum parking requirements citywide.
 
