@@ -27,12 +27,12 @@ People seeing a car as an intruder was foreign to me. It was hard to imagine, bu
 
 <div style="float: right; margin-left: 20px; max-width: 60%;">
   <img src="/images/nola-street-car.jpg" alt="New Orleans city street car">
-  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: CanvasText;">
+  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: var(--text-color);">
     New Orleans street cars from
     <a href="https://www.verylocal.com/know-your-nola-the-rise-fall-and-rebirth-of-streetcars-part-1/12233/"
        target="_blank"
        rel="noopener noreferrer"
-       style="color: CanvasText;">
+       style="color: var(--text-color);">
       Know Your NOLA: The Rise, Fall, and Rebirth of Streetcars (Part 1)
     </a>
   </span>
@@ -60,7 +60,7 @@ Until recently almost every city in America had these minimum off-street parking
 
 <div style="float: right; margin-left: 20px; max-width: 60%;">
   <img src="/images/L&N-2.jpg" alt="New Orleans city street car">
-  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: CanvasText;">
+  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: var(--text-color);">
     I recently rode my bike to the best neighborhood grocery store in town, L&N.
   </span>
 </div>
@@ -75,7 +75,7 @@ If you haven’t noticed, many of Thibodaux’s local businesses are located wit
 
 ![Cajun Bayou's homepage for Thibodaux](/images/cajun-bayou-site.png)
 
-At this point I wondered if I was convincing myself these minimum parking ratios were bad. Maybe they existed for good reason? I put it off for a while but I knew what I had to make myself do next: read academic literature. Not surprisingly what I found was numerous academic, economic, and urban planning studies that confirmed what I suspected. Numerous studies have shown that these mandates are typically based on limited or outdated data rather than actual demand, causing cities to require substantially more parking than many businesses and developments need. They result in higher construction costs, higher housing and commercial rents, more impervious surfaces that contribute to flooding, reduced walkability, and increased car dependency. Rather than preventing parking shortages, many of the researchers argued that cities should allow the market to determine parking supply while managing on-street parking through pricing or time limits where necessary. The free market for parking is a more efficient one than the one where the government mandates a surplus. It does more harm than good. I also learned about a new trend. Many cities, big and small, across the country were beginning to remove minimum parking ratios from zoning ordinances. [North Carolina recently outlawed them at the state level](https://www.wcnc.com/article/money/markets/real-estate/affordable-housing-crisis/north-carolina-ends-mandatory-parking-minimums/275-bc4b1b3e-bd88-452a-9886-fa28b3db274b).
+At this point I wondered if I was convincing myself these minimum parking ratios were bad. Maybe they existed for good reason? I put it off for a while but I knew what I had to make myself do next: read academic literature. Not surprisingly what I found was numerous academic, economic, and urban planning studies that confirmed what I suspected. Numerous studies have shown that these mandates are typically based on limited or outdated data rather than actual demand, causing cities to require substantially more parking than many businesses and developments need. They result in higher construction costs, higher housing and commercial rents, more impervious surfaces that contribute to flooding, reduced walkability, and increased car dependency. Rather than preventing parking shortages, many of the researchers argued that cities should allow the market to determine parking supply while managing on-street parking through pricing or time limits where necessary. The free market for parking is a more efficient one than the one where the government mandates a surplus. It does more harm than good. I also learned about a new trend. Many cities, big and small, across the country were beginning to remove minimum parking ratios from zoning ordinances. [North Carolina recently based a bill prohibiting local governments from enforcing mandatory minimum parking space counts based on occupancy, letting developers decide parking supply](https://www.wcnc.com/article/money/markets/real-estate/affordable-housing-crisis/north-carolina-ends-mandatory-parking-minimums/275-bc4b1b3e-bd88-452a-9886-fa28b3db274b). The short bill can be accessed [here](https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H162-SMRI-78(e2)-v-2).
 
 Here's what all of this looks like when you apply the city's parking ordinance to an actual building: the *Ice House*. The building was formally the [Olde Icehouse](https://houmatimes.com/spotlight/businessman-breathes-new-life-into-olde-icehouse/), an iconic Thibodaux bar where local residents could crack a cold one with friends after a hard days work. It closed in 2017 and is currently vacant [listed for sale](https://lacdb.com/listings/1ce4e0bb-700-st-patrick-st/).
 
@@ -89,7 +89,7 @@ The plan -- assuming the purchaser of the property would be willing to build mor
 
 <div style="float: right; margin-left: 20px; max-width: 60%;">
   <img src="/images/crossing-canal.jpg" alt="Crossing N Canal Blvd with my baby">
-  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: CanvasText;">
+  <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: var(--text-color);">
     The only "safe" way to cross N Canal Blvd. There's no crosswalk but a sidewalk on one side.
   </span>
 </div>
