@@ -87,6 +87,8 @@ LACDB's listing for the *Ice House* says "the property offers ample on-site park
 
 The plan -- assuming the purchaser of the property would be willing to build more parking -- is to build 49 spaces. That might seem like plenty to you, but for the *Ice House* to become a bar again, it wouldn't be enough. The minimum parking ratios say it would need 1 parking space per 100 square feet of gross floor area. It would need **91 spaces** (9,112 ÷ 100 = 91.12). Maybe the Ice House really needs all 91 spaces. Maybe it doesn't. The fact is the city shouldn't need to determine the appropriate number of parking spaces for every possible use in the first place. Businesses and property owners are generally better positioned than a citywide zoning ratio to determine how much off-street parking a particular use requires.
 
+The way I see it, the government's role is to manage the impacts on public spaces and city infrastructure, enforcing off-street parking safety and curb parking regulations. In other words, Thibodaux's role is to regulate the *effects* of inadequate parking instead of dictating the *amount*. The private property owner's role is to make sure they provide enough off-street parking for their business to be successful. There's no zoning ordinance saying every Thibodaux fast food restaurant must have a drive-through. Yet, all fast food businesses here have one.
+
 <div style="float: right; margin-left: 20px; max-width: 60%;">
   <img src="/images/crossing-canal.jpg" alt="Crossing N Canal Blvd with my baby">
   <span style="display: block; margin-top: 1vh; font-size: 0.85em; color: var(--text-color);">
