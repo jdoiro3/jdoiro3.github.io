@@ -1,0 +1,21 @@
+---
+title: Driving in Louisiana
+date: 2026-09-04 08:47:22
+tags:
+---
+
+I was recently driving on LA-20 with my wife and our 3-month-old near the Bayou Chevreuil Boat Launch. I was trying to stay around the posted 35 mph speed limit (probably a little over it, honestly) when someone three cars behind us decided to pass. As they came alongside us, another car was approaching at high speed in the opposite lane. The passing driver realized the gap was closing, accelerated, and barely avoided a head-on collision right next to us. I kept thinking about how this one decision could have cost the lives of me, my wife, our baby, and the people in the other vehicles. And for what? A few seconds, maybe a minute? Is it annoying to get stuck behind someone who is driving more cautiously than you would? Sure. I’ve been annoyed by it too. Everyone has. But is getting somewhere a little faster worth making a decision that could permanently change several lives? Absolutely not.
+
+It also reminded me of another incident when a large truck nearly hit me while illegally passing me as I was **legally** riding my bike on Canal Blvd. About a minute later, we were both sitting at the same red light. Maybe they didn't see me but either way they risked my life to get ahead, only to end up stopped at the same intersection moments later. That got me thinking about driving culture in general.
+
+I recently read that Louisiana ranked 3rd in the country for road rage in [ConsumerAffairs' 2026 analysis](https://www.consumeraffairs.com/automotive/states-with-the-worst-road-rage). The ranking was based on several measures, including fatal crashes involving aggressive or careless driving, dangerous-driving violations, and incidents involving gun violence. Louisiana had ranked first the previous year as well. It found that aggressive or careless driving was involved in 46% of the state's fatal crashes. The national average is 13%.
+
+*This doesn't mean every Louisiana driver is aggressive, or that “road rage” explains every crash*. But the underlying data does suggest that dangerous driving behavior is a significant part of Louisiana's traffic problem. Louisiana's own Highway Safety Plan identifies aggressive driving as one of the state's four major contributing factors in fatal crashes. Its definition includes things like exceeding the speed limit, failure to yield, following too closely, and improper passing. So if Louisiana is known for its “Southern hospitality” and friendliness, why does so much of that seem to disappear once we get behind the wheel?
+
+I think we sometimes forget that driving on public streets is a cooperative activity. Every time we get behind the wheel, we're trusting thousands of strangers to make reasonable decisions around us. The road works best when we treat other people as people, not obstacles standing between us and our destination. That means yielding when we're supposed to yield, letting someone merge, slowing down when conditions call for it, and accepting that being delayed for a few seconds isn't a personal injustice or an infringement on your right to beat everyone to Walmart.
+
+It's also one reason I think the discussion around roundabouts in Thibodaux, LA interesting to me. **A roundabout is fundamentally built around cooperation**. You yield to circulating traffic. You slow down. You anticipate what other drivers are going to do. You maintain a predictable speed. Someone online jokingly called them “Freedom Circles,” and honestly, I think that's a much better way to market them here. A roundabout is less likely to work well if everyone treats the road like a competition.
+
+I sometimes hear people say roundabouts “won't work in Thibodaux” because drivers here are too aggressive or too bad at driving. I wondered the same thing; however, I don't agree with that. I think people in here are perfectly capable of using roundabouts safely. But I do think our driving habits and expectations matter.
+
+**The Canal Blvd roundabout is a more complicated example than a simple two-road roundabout, and it has its own design and operational challenges**. I'm not arguing that every problem with it can be explained by driver behavior. The point I'm trying to make is: **traffic safety isn't just about the road. It's also about the people using it.** If we want safer streets, we have to think about both.
