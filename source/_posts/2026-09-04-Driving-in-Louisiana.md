@@ -1,7 +1,7 @@
 ---
 title: Driving in Louisiana
 date: 2026-09-04 08:47:22
-tags:
+tags: Transportation, Short
 ---
 
 I was recently driving on LA-20 with my wife and our 3-month-old near the Bayou Chevreuil Boat Launch. I was trying to stay around the posted 35 mph speed limit (probably a little over it, honestly) when someone three cars behind us decided to pass. As they came alongside us, another car was approaching at high speed in the opposite lane. The passing driver realized the gap was closing, accelerated, and barely avoided a head-on collision right next to us. I kept thinking about how this one decision could have cost the lives of me, my wife, our baby, and the people in the other vehicles. And for what? A few seconds, maybe a minute? Is it annoying to get stuck behind someone who is driving more cautiously than you would? Sure. I’ve been annoyed by it too. Everyone has. But is getting somewhere a little faster worth making a decision that could permanently change several lives? Absolutely not.
@@ -18,4 +18,4 @@ It's also one reason I think the discussion around roundabouts in Thibodaux, LA 
 
 I sometimes hear people say roundabouts “won't work in Thibodaux” because drivers here are too aggressive or too bad at driving. I wondered the same thing; however, I don't agree with that. I think people in here are perfectly capable of using roundabouts safely. But I do think our driving habits and expectations matter.
 
-**The Canal Blvd roundabout is a more complicated example than a simple two-road roundabout, and it has its own design and operational challenges**. I'm not arguing that every problem with it can be explained by driver behavior. The point I'm trying to make is: **traffic safety isn't just about the road. It's also about the people using it.** If we want safer streets, we have to think about both.
+**The Canal Blvd roundabout is a more complicated example than a simple two-road roundabout, and it has its own design and operational challenges**. I'm not arguing that every problem with it can be explained by driver behavior. The point I'm trying to make isgit : **traffic safety isn't just about the road. It's also about the people using it.** If we want safer streets, we have to think about both.
