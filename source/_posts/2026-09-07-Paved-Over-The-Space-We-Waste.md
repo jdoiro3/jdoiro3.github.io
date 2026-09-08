@@ -1,11 +1,8 @@
 ---
 title: 'Paved Over: The Space We Waste'
 date: 2026-09-07 10:50:22
-tags:
-related_posts:
-  enable: true
-  title: # Leave blank for default or add custom title like "Suggested Readings"
-  icon: fa fa-signs-post
+tags: [Short, Urban Planning, Parking, Economics]
+thumbnail: /images/north-canal-is-mostly-parking.png
 ---
 
 > Parking is necessary, but requiring more parking than the market actually needs can make cities less fiscally productive.
