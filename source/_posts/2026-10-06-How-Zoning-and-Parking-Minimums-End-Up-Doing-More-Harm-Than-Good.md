@@ -1,5 +1,5 @@
 ---
-title: How Zoning and Parking Minimums End Up Doing More Harm Than Good
+title: 817 Jackson St. and How Zoning and Parking Minimums End Up Doing More Harm Than Good
 date: 2026-10-06 09:03:21
 tags:
 ---
